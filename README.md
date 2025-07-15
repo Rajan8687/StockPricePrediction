@@ -1,4 +1,3 @@
-
 ## Notebook: `stock.ipynb`
 
 ### Purpose
